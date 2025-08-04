@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# iran-leasing
-=======
-<<<<<<< HEAD
-# iran-leasing
-=======
+
 # iran-leasing
 
 ## Project setup
