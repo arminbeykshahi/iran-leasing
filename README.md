@@ -1,4 +1,4 @@
-## run Api 
+## Run Api 
 ```
 npm start
 ```
@@ -16,6 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
->>>>>>> a95164b (addproject)
->>>>>>> a05835e (addproject)
