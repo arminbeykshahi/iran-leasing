@@ -1,12 +1,12 @@
-## Run Api 
-```
-npm start
-```
+
 ## Project setup
 ```
 npm install
 ```
-
+## Run Api 
+```
+npm start
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve
