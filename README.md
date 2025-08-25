@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-# iran-leasing
-=======
-<<<<<<< HEAD
-# iran-leasing
-=======
-
-# iran-leasing
-
+## run Api 
+```
+npm start
+```
 ## Project setup
 ```
 npm install
