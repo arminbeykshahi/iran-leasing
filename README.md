@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# iran-leasing
-=======
 
 ## Project setup
 ```
@@ -19,4 +16,4 @@ npm run serve
 ```
 npm run build
 ```
->>>>>>> 6e43a3d (addproject)
+
